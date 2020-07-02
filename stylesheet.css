@@ -1,0 +1,16 @@
+.message-wrapper {
+  padding: 80px 50px;
+  text-align: center;
+}
+
+.message {
+  padding: 10px 40px;
+  font-size: 20px;
+  cursor: pointer;
+  color: #010101;
+}
+
+.footer {
+ margin-top: 100px;
+ text-align: center;
+}
